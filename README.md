@@ -1,4 +1,5 @@
 # Embench Floating Point Test Suite
 
-This is currently a placeholder for a suite of tests aimed at embedded systems
-with up to 1MB of memory intended for floating point applications.
+This repository is now obsolete, and is replaced by suites aimed at particular
+market segments (e.g. Embench DSP), rather than suites aimed at particular
+technology.
